@@ -60,7 +60,7 @@ const App = () => {
       }
     }
   };
-
+  
   const selectMultipleFile = async () => {
     //Opening Document Picker for selection of multiple file
     try {
